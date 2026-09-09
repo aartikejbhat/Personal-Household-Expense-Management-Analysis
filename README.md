@@ -84,3 +84,13 @@ Personal-Household-Expense-Management-Analysis/
 ├── notebooks/
 ├── src/
 └── results/
+
+## 👩‍💻 Author
+
+**Aarti Kejbhat**
+
+Aspiring Data Analyst
+
+**Skills:** Python | Pandas | SQL | PostgreSQL | Data Analysis | Data Visualization
+
+**GitHub:** [https://github.com/aartikejbhat](https://github.com/aartikejbhat)
