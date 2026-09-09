@@ -31,7 +31,9 @@ The dataset contains household expense records used for analysis and visualizati
 - SQL
 - PostgreSQL
 - Microsoft Excel
-
+- Matplotlib
+- Seaborn
+- Power BI
 
 ## 🔍 Analysis Performed
 
@@ -82,20 +84,3 @@ Personal-Household-Expense-Management-Analysis/
 ├── notebooks/
 ├── src/
 └── results/
-
-**Future Improvements**
-Create an interactive Power BI dashboard
-Add monthly expense trend analysis
-Add more visualizations
-Perform advanced SQL analysis
-Create automated reports
-
-Author
-
-Aarti Kejbhat
-
-Aspiring Data Analyst
-
-Skills: Python | SQL | PostgreSQL | Pandas | Excel | Matplotlib | Seaborn | Power BI
-
-GitHub: https://github.com/aartikejbhat
