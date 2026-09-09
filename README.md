@@ -31,9 +31,7 @@ The dataset contains household expense records used for analysis and visualizati
 - SQL
 - PostgreSQL
 - Microsoft Excel
-- Matplotlib
-- Seaborn
-- Power BI (Currently Learning)
+
 
 ## 🔍 Analysis Performed
 
